@@ -1,4 +1,4 @@
-git config --global user.name "Твоє ім’я" – вказує твоє ім’я для всіх репозиторіїв.
+1. git config --global user.name "Твоє ім’я" – вказує твоє ім’я для всіх репозиторіїв.
 
 git config --global user.email "твій@email.com" – вказує твій email для комітів.
 
