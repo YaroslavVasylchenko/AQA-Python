@@ -153,7 +153,7 @@ print(f"\nTotal cost: {total_cost} UAH \n")
 photos_igors = 232
 max_photos_per_page = 8
 page_photo = 232 / 8
-print(f"1){photos_igors} : {max_photos_on_page} = {page_photo} (pages we nead ) \n"
+print(f"1){photos_igors} : {max_photos_per_page} = {page_photo} (pages we nead ) \n"
       f"we nead {page_photo} for all photo")
 
 # task 10
