@@ -5,7 +5,7 @@
 """
 
 
-alice_in_wonderland = '"Would you tell me, please, which way I ought to go from here? "\n'\
+alice_in_wonderland = '"Would you tell me, please, which way I ought to go from here?"\n'\
 '"That depends a good deal on where you want to get to, said the Cat."\n'\
 '"I don\'t much care where "\n'\
 '"—— said Alice .""Then it doesn\'t matter which way you go, said the Cat."\n'\

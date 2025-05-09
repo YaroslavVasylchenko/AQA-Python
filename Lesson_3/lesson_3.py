@@ -64,7 +64,7 @@ for i in my_list:
 my_dict = {'ключ': 'значення'}
 my_dict2 = {}
 
-# Літерали
+#/ Літерали
 a = 42
 b = "hello"
 c = """get me
