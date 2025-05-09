@@ -1,25 +1,3 @@
-# lesson = [1,2,3]
-# print (lesson)
-# for i in lesson:
-#     print(i)
-
-
-#     apples = input("скільки яблук ?")
-#     apples = int(apples)
-#     print (f"ви отримаєте {apples + 1}")
-
-
-# x = min(1, 2, 3)
-# y = max (4, 6, 6)
-# print(x, y)
-
-print("9" * 3 )
-
-for x in range(1, 11):
-    print("{0:2d} {1:4d} {2:6d}".format(x, x*x, x*x*x))
-
-
-
 # Логічна лінія та фізична лінія
 print("Task 10:")
 book_1 = 8
